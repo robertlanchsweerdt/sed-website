@@ -1,2 +1,35 @@
+# Local agent docs
 AGENTS.md
 coding/docs/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# npm / dependencies
+node_modules/
+package-lock.json
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+dist/
+
+# 11ty (Eleventy) output
+_site/
+
+# Logs & caches
+logs
+*.log
+.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
