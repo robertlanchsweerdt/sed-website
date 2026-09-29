@@ -1,6 +1,6 @@
 # Local agent docs
 AGENTS.md
-docs/
+agent-notes/
 
 # Secrets
 .env
